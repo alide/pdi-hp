@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.7f689c57.css",
-  "main.css.map": "static/css/main.7f689c57.css.map",
-  "main.js": "static/js/main.c1da6de9.js",
-  "main.js.map": "static/js/main.c1da6de9.js.map",
+  "main.css": "static/css/main.ad92330b.css",
+  "main.css.map": "static/css/main.ad92330b.css.map",
+  "main.js": "static/js/main.7685dcf4.js",
+  "main.js.map": "static/js/main.7685dcf4.js.map",
   "static/media/Home-Slide3.jpg": "static/media/Home-Slide3.6cbfcbca.jpg",
   "static/media/banner-bg.svg": "static/media/banner-bg.1b4cf821.svg",
   "static/media/bubbles.svg": "static/media/bubbles.2dd35f95.svg",
@@ -11,10 +11,5 @@
   "static/media/logo.svg": "static/media/logo.499177d2.svg",
   "static/media/mountain.jpg": "static/media/mountain.b305adef.jpg",
   "static/media/sand-bg.jpg": "static/media/sand-bg.cf3b529c.jpg",
-  "static/media/stars.svg": "static/media/stars.f1ad44b3.svg",
-  "static/media/website-01.jpg": "static/media/website-01.d5bdb7df.jpg",
-  "static/media/website-02.jpg": "static/media/website-02.b57ee5f9.jpg",
-  "static/media/website-03.jpg": "static/media/website-03.d3ec2e2a.jpg",
-  "static/media/website-04.jpg": "static/media/website-04.442d2a95.jpg",
-  "static/media/website-05.jpg": "static/media/website-05.6a156061.jpg"
+  "static/media/stars.svg": "static/media/stars.f1ad44b3.svg"
 }
